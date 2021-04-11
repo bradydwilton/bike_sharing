@@ -16,7 +16,7 @@ This analysis was prepared with three questions in mind:
 <img src='https://github.com/bradydwilton/bike_sharing/blob/main/images/whoUsesBikeSharingService.png'>
 
 The `Customer Type` and `Gender Breakdown` pie charts show that the _**highest amount of usage comes from male riders who subscribe to the service.**_  </br></br>
-The `Trips by Gender (Weekday per Hour)` heatmap shows that both men and women have similar usage patterns, with the service being used the most during rush hour (8 A.M and 5-6 P.M.). However, as shown in the `Gender Breakdown` pie chart, there are more male customers during those hours than female.
+The `Trips by Gender (Weekday per Hour)` heatmap shows that both men and women have similar usage patterns, with the service being used the most during rush hour (8 A.M and 5-6 P.M.). However, similar to what was previously shown in the `Gender Breakdown` pie chart, there are more male than female customers during those hours.
 
 ### 2. When are bikes used the most?
 
